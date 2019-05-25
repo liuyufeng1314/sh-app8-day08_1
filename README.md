@@ -1,2 +1,3 @@
 # sh-app8-day08_1
-hello
+你好
+我好
